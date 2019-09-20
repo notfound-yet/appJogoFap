@@ -4,7 +4,7 @@
 
 
 Aplicativo feito em react-native para tentar praticar algumas coisas basicas no react native
-> ideia totalmenta autoral.
+> ideia totalmente autoral.
 
 ### Tela inicial
 ![0](https://user-images.githubusercontent.com/27299295/65291485-f7db5780-db29-11e9-8f57-308cdcaf671d.png)
